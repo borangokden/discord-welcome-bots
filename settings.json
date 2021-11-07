@@ -1,7 +1,13 @@
 {
-
+  "tokens": [
+    "TOKEN 1",
+    "TOKEN 2",
+    "TOKEN 3" ],
+  
   "channels": [
-    "KANAL IDLERİ İÇİN matthe.js ( MAİN ) KISMINDA KISIM VAR ORALARI DOLDURUNUZ "],
+    "SESKANALI ID 1",
+    "SESKANALI ID 2",
+    "SESKANALI ID 3" ],
 
   "staffRoles": [
     "YETKILI ROL ID"],
