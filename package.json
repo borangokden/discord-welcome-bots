@@ -1,0 +1,20 @@
+{
+  "name": "discord-welcome-bot",
+  "version": "0.0.1",
+  "description": "Matthe Çok Tokenli Welcome Bot",
+  "main": "matthe.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "discord.js": "^12.5.3",
+    "ffmpeg": "0.0.4",
+    "node-opus": "^0.3.3",
+    "opusscript": "^0.0.8"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.17.0"
+  }
+}
