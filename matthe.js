@@ -1,8 +1,6 @@
 const { Client } = require("discord.js");
-const { channels, staffRoles, unregisterRoles, welcomeSound, staffSound } = require("./settings.json");
-const tokens = settings.tokens.split(" ");
+const { channels, staffRoles, unregisterRoles, welcomeSound, staffSound, tokens } = require("./settings.json");
 
-//TOKEN 1
  tokens.forEach((token, i) => {
   const client = new Client();
   let connection;
