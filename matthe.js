@@ -1,6 +1,6 @@
 const { Client } = require("discord.js");
 const { channels, staffRoles, unregisterRoles, welcomeSound, staffSound } = require("./settings.json");
-const tokens = process.env.TOKENS.split(" ");
+const tokens = ayarlar.tokens.split(" ");
 
 //TOKEN 1
  tokens.forEach((token, i) => {
