@@ -1,8 +1,8 @@
 {
-  "name": "matthe-welcome-bot",
+  "name": "borangkdn-welcome-bot",
   "version": "0.0.1",
-  "description": "Matthe Çok Tokenli Welcome Bot",
-  "main": "matthe.js",
+  "description": "BoranGkdn Çok Tokenli Welcome Bot",
+  "main": "borangkdn.js",
   "scripts": {
     "start": "node ."
   },
